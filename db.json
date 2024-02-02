@@ -1,7 +1,6 @@
 {
-[
-  { "id": 1, "x": 10, "y": 20, "label": "Point 1" },
-  { "id": 2, "x": 30, "y": 40, "label": "Point 2" }
-]
-
+  "dataPoints": [
+    { "id": 1, "x": 10, "y": 20, "label": "Point 1" },
+    { "id": 2, "x": 30, "y": 40, "label": "Point 2" }
+  ]
 }
