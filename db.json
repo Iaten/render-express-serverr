@@ -1,18 +1,7 @@
 {
-  "Employee": [
-    {
-      "id": 2,
-      "name": "Bablu",
-      "location": "bangalore",
-      "emailId": "bablu@wipro.com",
-      "mobile": "75591722890"
-    },
-    {
-      "id": 3,
-      "name": "Amit kumar",
-      "location": "bangalore",
-      "emailId": "kamit9171@gmail.com",
-      "mobile": "7559282294"
-    }
-  ]
+[
+  { "id": 1, "x": 10, "y": 20, "label": "Point 1" },
+  { "id": 2, "x": 30, "y": 40, "label": "Point 2" }
+]
+
 }
